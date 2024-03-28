@@ -1,3 +1,0 @@
-{"username": "mhdank", "password": "12345678", "email": "anik11556@gmail.com", "phone_number": "01797105243"}
-{"username": "mhdank", "password": "12345678", "email": "anik11556@gmail.com", "phone_number": "01797105243"}
-{"username": "mhdank", "password": "12345678", "email": "anik11556@gmail.com", "phone_number": "01797105243"}
